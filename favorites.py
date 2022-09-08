@@ -18,7 +18,7 @@ print(f'One of ITEC 2905s favorite movies is {favorite_movie}')
 ## Favorite Music
 
 favorite_music = ''
-print(f'One of ITEC 2905s favorite musics is {favorite_music}')
+print(f'One of ITEC 2905s favorite types of music is {favorite_music}')
 
 ## Favorite Place
 

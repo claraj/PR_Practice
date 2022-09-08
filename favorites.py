@@ -2,7 +2,7 @@
 
 # Favorite Color
 
-favorite_color = ''
+favorite_color = 'Green'
 print(f'One of ITEC 2905s favorite colors is {favorite_color}')
 
 # Favorite Food

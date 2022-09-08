@@ -27,7 +27,7 @@ print(f'One of ITEC 2905s favorite places is {favorite_place}')
 
 ## Favorite Holiday
 
-favorite_holiday = ''
+favorite_holiday = 'Christmas' #Add an example favorite holiday to the favorites list
 print(f'One of ITEC 2905s favorite holidays is {favorite_holiday}')
 
 ## Favorite Book

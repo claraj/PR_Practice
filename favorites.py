@@ -47,7 +47,7 @@ print(f'One of ITEC 2905s favorite type of weather is {favorite_weather}')
 
 ## Favorite Drink
 
-favorite_drink = ''
+favorite_drink = 'Lemonade'
 print(f'One of ITEC 2905s favorite drinks is {favorite_drink}')
 
 ## Favorite Store

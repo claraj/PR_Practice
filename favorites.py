@@ -57,5 +57,5 @@ print(f'One of ITEC 2905s favorite stores is {favorite_store}')
 
 ## Favorite Sport
 
-favorite_sport = ''
+favorite_sport = 'soccer'
 print(f'One of ITEC 2905s favorite sports is {favorite_sport}')

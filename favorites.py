@@ -32,7 +32,7 @@ print(f'One of ITEC 2905s favorite holidays is {favorite_holiday}')
 
 ## Favorite Book
 
-favorite_book = ''
+favorite_book = 'The Dragon Reborn by Robert Jordon'
 print(f'One of ITEC 2905s favorite books is {favorite_book}')
 
 ## Favorite Animal

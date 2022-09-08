@@ -37,7 +37,7 @@ print(f'One of ITEC 2905s favorite books is {favorite_book}')
 
 ## Favorite Animal
 
-favorite_animal = ''
+favorite_animal = 'cat'
 print(f'One of ITEC 2905s favorite colors is {favorite_animal}')
 
 ## Favorite Weather

@@ -12,7 +12,7 @@ print(f'One of ITEC 2905s favorite foods is {favorite_food}')
 
 # Favorite Movie or TV Show
 
-favorite_movie = ''
+favorite_movie = 'Harry Potter'
 print(f'One of ITEC 2905s favorite movies is {favorite_movie}')
 
 ## Favorite Music
